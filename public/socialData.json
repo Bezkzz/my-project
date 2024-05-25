@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Соцсеть 1",
+      "url": "#",
+      "defaultImage": "/icons/facebook-white.svg",
+      "hoverImage": "/icons/facebook.svg"
+    },
+    {
+      "id": 2,
+      "name": "Соцсеть 2",
+      "url": "#",
+      "defaultImage": "/icons/telegram-white.svg",
+      "hoverImage": "/icons/telegram.svg"
+    },
+    {
+      "id": 3,
+      "name": "Соцсеть 3",
+      "url": "#",
+      "defaultImage": "/icons/instagram-white.svg",
+      "hoverImage": "/icons/instagram.svg"
+    },
+    {
+        "id": 4,
+        "name": "Соцсеть 4",
+        "url": "#",
+        "defaultImage": "/icons/twitter-white.svg",
+        "hoverImage": "/icons/twitter.svg"
+      },
+      {
+        "id": 5,
+        "name": "Соцсеть 5",
+        "url": "#",
+        "defaultImage": "/icons/whatsapp-white.svg",
+        "hoverImage": "/icons/whatsapp.svg"
+      },
+      {
+        "id": 6,
+        "name": "Соцсеть 6",
+        "url": "#",
+        "defaultImage": "/icons/tiktok-white.svg",
+        "hoverImage": "/icons/tiktok.svg"
+      },
+      {
+        "id": 7,
+        "name": "Соцсеть 7",
+        "url": "#",
+        "defaultImage": "/icons/in-white.svg",
+        "hoverImage": "/icons/in.svg"
+      }
+  ]

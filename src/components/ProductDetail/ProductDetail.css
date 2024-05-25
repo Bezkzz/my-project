@@ -1,0 +1,81 @@
+.product-detail-container {
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .product-wrapper {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .product-wrapper-cart {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .product-detail {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    max-width: 800px;
+    width: 100%;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .product-title {
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #333;
+    line-height: 1.4;
+  }
+  
+  .product-image {
+    width: 340px;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .product-info {
+    text-align: left;
+  }
+  
+  .product-text {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #555;
+  }
+  
+  .product-details {
+    font-size: 1em;
+    color: #777;
+    line-height: 1.6;
+  }
+
+/* Стили кнопки */
+  .add-to-cart-button {
+    background-color: #40e0d0; /* Бирюзовый акцент */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .add-to-cart-button:hover {
+    background-color: #34b5a0;
+  }
+
+  .add-to-cart-button:active {
+    background-color: #34b5a080;
+    transform: scale(1);
+  }
